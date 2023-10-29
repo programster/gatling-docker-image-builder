@@ -1,2 +1,2 @@
-# gatling-docker-image-builder
-Codebase for building a Gatling Docker image.
+# Gatling Docker Image Builder
+A codebase for building a Gatling Docker image.
